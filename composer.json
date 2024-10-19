@@ -1,0 +1,20 @@
+{
+    "name": "tackphp/laravel-sms",
+    "description": "Package for sending sms to SMS panels",
+    "type": "library",
+    "require": {
+        "laravel/framework": "11.x"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tackphp\\LaravelSms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tackphp"
+        }
+    ],
+    "minimum-stability": "dev"
+}
